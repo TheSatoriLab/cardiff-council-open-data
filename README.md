@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://thesatorilab.github.io/leaflet-maps-with-google-sheets/
+- Leaflet Map https://thesatorilab.github.io/logistics-data-project/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1dLfhSyebllpevQ_zDax-qtXhYemolJU6Zpo4z9uzYts/edit#gid=0
 
 ## Create your own
