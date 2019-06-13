@@ -4,8 +4,8 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://thesatorilab.github.io/logistics-data-project/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1dLfhSyebllpevQ_zDax-qtXhYemolJU6Zpo4z9uzYts/edit#gid=0
+- Leaflet Map https://thesatorilab.github.io/cardiff-council-open-data/
+- Google Sheets template https://docs.google.com/spreadsheets/d/1szDcgF19tnC2n_1PbCZFyqk0u_bY0vVNFcJ4Jjx7vY0/edit#gid=0
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-maps-with-google-sheets.html
